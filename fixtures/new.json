@@ -1,0 +1,123 @@
+[
+    {
+        "email":"casetesting123456a@gmail.com",
+        "password":"sanjay@2001-",
+        "name":"Valid Login Test 1:",
+        "expect":"",
+        "type":"inValid"
+    },
+
+    {
+        "email":"casetesting12345b@gmail.com",
+        "password":"sanjay@2001-",
+        "name":"Valid Login Test 2:",
+        "expect":"",
+        "type":"Valid"
+    },
+
+    {
+        "email":"casetesting12345c@gmail.com",
+        "password":"sanjay@2001-",
+        "name":"Valid Login Test 3:",
+        "expect":"","type":"Valid"
+    },
+
+    {
+        "email":"casetesting12345d@gmail.com",
+        "password":"sanjay@2001-",
+        "name":"Valid Login Test 4:",
+        "expect":"",
+        "type":"Valid"
+    },
+
+    {
+        "email":"casetesting12345e@gmail.com",
+        "password":"sanjay@2001-",
+        "name":"Valid Login Test 5:",
+        "expect":"",
+        "type":"Valid"
+    },
+
+
+    
+    {
+        "email":"casetesting2345a@gmail.com",
+        "password":"sanjay@23001",
+        "name":"Invalid Login Test 1:",
+        "expect":"",
+        "type":"inValid"},
+
+    {
+        "email":"casetesting1345@gmail.com",
+        "password":"sanjgfbay@20fd01-",
+        "name":"Invalid Login Test 2:",
+        "expect":"",
+        "type":"inValid"
+    },
+
+    {
+        "email":"casetesting12345c@outlook.com",
+        "password":"santjay@20g01-",
+        "name":"Invalid Login Test 3:",
+        "expect":"",
+        "type":"inValid"
+    },
+
+    {
+        "email":"casetesting12345d$gmail.com",
+        "password":"sanja34ry@2001-",
+        "name":"Invalid Login Test 4:",
+        "expect":"",
+        "type":"inValid"
+    },
+
+    {
+        "email":"casetesting12345e/gmail.com",
+        "password":"sanjay@vgfva2001-",
+        "name":"Invalid Login Test 5:",
+        "expect":"",
+        "type":"inValid"
+    },
+
+    {
+        "email":"casetesting12345gmail.com",
+        "password":"sanjay@2001-",
+        "name":"Invalid Login Test 6:",
+        "expect":"",
+        "type":"inValid"
+    },
+
+    {
+        "email":"casetesting12345&gmail.com",
+        "password":"sanjay@342001-",
+        "name":"Invalid Login Test 7:",
+        "expect":"",
+        "type":"inValid"
+    },
+
+    {
+        "email":"casetestinggmail.com",
+        "password":"sanjay@3ef42001-",
+        "name":"Invalid Login Test 8:",
+        "expect":"",
+        "type":"inValid"
+    },
+
+    {
+        "email":"casetesting12345e)/",
+        "password":"sanjay@4dc2001-",
+        "name":"Invalid Login Test 9:",
+        "expect":"",
+        "type":"inValid"
+    },
+
+    {
+        "email":"12345e/(gmail.com",
+        "password":"sanjay@24fer5001-",
+        "name":"Invalid Login Test 10:",
+        "expect":"",
+        "type":"inValid"
+    }
+
+    
+]
